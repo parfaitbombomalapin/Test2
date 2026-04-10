@@ -18,7 +18,7 @@ public class Tp1No1 {
         double perimetre;
         double aire;
         double rayon;
-        DecimalFormat df = new DecimalFormat("0.003");
+        DecimalFormat df = new DecimalFormat("0.00004");
         Scanner input = new Scanner(System.in);
 
         System.out.print("Entrer le diamètre du cercle en cm :");
