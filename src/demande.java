@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class demande {
     public static void main(String[] args) {
         demande d=new demande();
-        d.demanderValeur("Entrez le valeur");
+        d.demanderValeur("Entrez le valeur5");
     }
     public double demanderValeur(String message){
         Scanner sc = new Scanner(System.in);
